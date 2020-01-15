@@ -1,0 +1,88 @@
+* {
+    margin: ;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    width: 50%;
+    margin: 0 auto;
+    background-image: url(https://storage.googleapis.com/wzukusers/user-13342616/images/555cc48ccf9eeCNgWweW/wood-table-top-texture-1gqi3edo_1450.jpg);
+}
+
+.logo {
+    height: 70px;
+    margin-top: 50px;
+    vertical-align: middle;
+}
+
+h1 {
+    color: white;
+    font-size: 25px;
+}
+
+h2 {
+    color: white;
+}
+
+hr {
+    margin-top: 0;
+    border: 1px solid green;
+}
+
+.dato-mails{
+    background-color: lightgrey;
+    border-bottom: 1px solid black;
+}
+.d-mail {
+    background-color: white;
+    border-bottom: 1px solid black;
+}
+
+.mails-text {
+    color: gray;
+}
+
+strong {
+    color: black;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+footer small {
+    font-size: 15px;
+}
+
+.invio {
+    border-radius: 10px;
+}
+
+#badge {
+    border: 1px solid orange;
+    background-color: orange;
+    padding: 10px 10px 5px 10px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+
+.foot-logo {
+    height: 50px;
+}
+
+main {
+    border: 1px solid black;
+}
+
+#quarto {
+    border-bottom: 0;
+}
+
+.down {
+    margin-top: 10px;
+}
